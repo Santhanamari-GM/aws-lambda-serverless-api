@@ -2,13 +2,13 @@
 
 A simple serverless REST API built using **AWS Lambda, Amazon API Gateway, and Python**. This project demonstrates how to create, deploy, integrate, and test serverless applications on AWS without managing servers.
 
-## 🚀 Project Overview
+## Project Overview
 
 The objective of this project is to understand serverless computing and build a working API using AWS services.
 
 The API accepts HTTP GET and POST requests through Amazon API Gateway, invokes an AWS Lambda function, and returns JSON responses.
 
-## 🎯 Key Objectives
+## Key Objectives
 
 - Understand serverless computing.
 - Learn AWS Lambda fundamentals.
@@ -18,7 +18,7 @@ The API accepts HTTP GET and POST requests through Amazon API Gateway, invokes a
 - Build and test a serverless REST API.
 - Monitor Lambda execution using Amazon CloudWatch.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -28,7 +28,7 @@ The API accepts HTTP GET and POST requests through Amazon API Gateway, invokes a
 | Amazon CloudWatch | Monitors execution logs |
 | Postman | Tests GET and POST API requests |
 
-## 🏗️ Architecture
+## Architecture
 
 The application follows this serverless architecture:
 
@@ -52,7 +52,7 @@ The application follows this serverless architecture:
     (Execution Logs)
 ```
 
-## ⚙️ Project Implementation
+## Project Implementation
 
 ### 1. Create AWS Lambda Function
 
@@ -177,7 +177,7 @@ CloudWatch provides information about:
 
 - Lambda execution.
 
-## 📚 Key Learnings
+## Key Learnings
 
 - Understanding serverless architecture.
 - Creating and deploying AWS Lambda functions.
@@ -187,7 +187,7 @@ CloudWatch provides information about:
 - Testing APIs using Postman.
 - Monitoring application execution using CloudWatch.
 
-## ✅ Project Result
+## Project Result
 
 Successfully developed and deployed a serverless REST API using AWS Lambda and Amazon API Gateway.
 
